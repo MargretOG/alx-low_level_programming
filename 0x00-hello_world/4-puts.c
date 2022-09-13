@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <time.h>
+
 /**
  * main - my Entry point
  *
@@ -7,11 +7,6 @@
  */
 int main(void)
 {
-	int i;
-
-	for (i = 0; i < 10; i++)
-		printf("%d", i);
-		printf("\n");
-
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
